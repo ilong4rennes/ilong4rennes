@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Amanda!
+## hi! i'm amanda
 
-- 🎓 Information Systems & Artificial Intelligence at Carnegie Mellon University
-- 📫 How to reach me: [Personal Website](https://www.amanda-lu.com/)
+- 🎓 information systems & artificial intelligence at carnegie mellon university
+- 📫 website: https://www.amanda-lu.com/
 
 
 <!--
