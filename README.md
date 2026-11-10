@@ -1,8 +1,5 @@
 ## hi! i'm amanda
 
-- 💼 solutions architect at alibaba cloud
-- 🎓 information systems & artificial intelligence at carnegie mellon university
-- 📫 website: https://www.amanda-lu.com/
 
 
 <!--
